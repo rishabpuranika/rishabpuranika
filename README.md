@@ -43,11 +43,10 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 </div>
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=rishabpuranika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### GitHub Contribution Calendars
-<img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year GitHub contribution calendar">
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rishabpuranika&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ###
 
