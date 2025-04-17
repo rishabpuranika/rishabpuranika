@@ -63,8 +63,8 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 
 ## 📆 Half-year calendar
 <div align="center">
-<img src="https://github.com/rishabpuranika/rishabpuranika/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
-  <img width="900" height="1" alt="">
+<img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
+  <!-- <img width="900" height="1" alt=""> -->
 </div>
 
 ### ✍️ Random Dev Quote
