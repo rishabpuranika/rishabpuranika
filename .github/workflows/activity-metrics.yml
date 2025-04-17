@@ -1,0 +1,24 @@
+name: Recent Activity Metrics
+on:
+  # Schedule updates (daily recommended)
+  schedule: [{cron: "0 0 * * *"}]
+  # (Optional) Run workflow manually
+  workflow_dispatch:
+  # (Optional) Run workflow when pushing to main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  generate-activity-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
