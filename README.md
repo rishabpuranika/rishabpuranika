@@ -47,7 +47,7 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### GitHub Contribution Calendars
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year GitHub contribution calendar">
+<img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year GitHub contribution calendar">
 
 ###
 
