@@ -2,11 +2,12 @@
 My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen interest in coding and software development.
 
 <div align="center">
-<img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt=""></img>
-<img width="900" height="1" alt="">
+  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt=""></img>
+  <img width="900" height="1" alt="">
 <div>
 <div align="center">
-  ![Recent Activity](https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.activity.svg)
+  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.activity.svg" alt=""></img>
+  <img width="900" height="1" alt="">
 </div>
 
 ## 🌐 Socials:
