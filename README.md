@@ -57,14 +57,16 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 <div align="center">
   <details open>
     <summary>Full-year calendar</summary>
-    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year GitHub calendar">
+    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
   </details>
 </div>
 
 ## 📆 Half-year calendar
 <div align="center">
-  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.svg" alt="Half-year GitHub calendar">
+<img src="https://github.com/rishabpuranika/rishabpuranika/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
+  <img width="900" height="1" alt="">
 </div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
