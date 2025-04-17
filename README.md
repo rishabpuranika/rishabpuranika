@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen interest in coding and software development.
 
 <div align="center">
@@ -42,33 +42,17 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 </div>
 
-<!-- # Leetcode Stats:
-
-<a href="https://www.leetcode.com/rishabpuranika" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rishabpuranika?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
-</a>
--->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=rishabpuranika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 📅 GitHub Contribution Calendars
 <div align="center">
-  <details open>
-    <summary>Full-year calendar</summary>
-    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-  </details>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-## 📆 Half-year calendar
-<div align="center">
-  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
-  <img width="900" height="1" alt="">
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### GitHub Contribution Calendars
+<details open>
+  <summary>Full-year calendar</summary>
+  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+</details>
 
 ###
 
