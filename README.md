@@ -26,7 +26,7 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
   </p>
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
   <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -44,15 +44,10 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=rishabpuranika&theme=dark&hide_border=false)<br/>
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### GitHub Contribution Calendars
-<details open>
-  <summary>Full-year calendar</summary>
-  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-</details>
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year GitHub contribution calendar">
 
 ###
 
