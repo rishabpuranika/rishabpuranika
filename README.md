@@ -2,12 +2,10 @@
 My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen interest in coding and software development.
 
 <div align="center">
-  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt=""></img>
-  <img width="900" height="1" alt="">
-<div>
-<div align="center">
-  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.activity.svg" alt=""></img>
-  <img width="900" height="1" alt="">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt="" style="flex: 1;"></img>
+    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.activity.svg" alt="" style="flex: 1;"></img>
+  </div>
 </div>
 
 ## 🌐 Socials:
@@ -55,6 +53,18 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 ![](https://nirzak-streak-stats.vercel.app/?user=rishabpuranika&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabpuranika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📅 GitHub Contribution Calendars
+<div align="center">
+  <details open>
+    <summary>Full-year calendar</summary>
+    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year GitHub calendar">
+  </details>
+</div>
+
+## 📆 Half-year calendar
+<div align="center">
+  <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.plugin.isocalendar.svg" alt="Half-year GitHub calendar">
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
