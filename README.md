@@ -6,7 +6,12 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
   <img src="https://komarev.com/ghpvc/?username=rishabpuranika" alt="Profile views" />
 </div>
 
-
+<div>
+  <td colspan="2" align="center">
+    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+</div>
 ## 🌐 Socials:
 <p><a target="_blank" href="https://www.linkedin.com/in/K N Rishab puranika" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/rishabpuranika" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
@@ -53,4 +58,3 @@ My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen
 ---
 [![](https://visitcount.itsvg.in/api?id=rishabpuranika&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
