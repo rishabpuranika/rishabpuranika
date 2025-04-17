@@ -1,9 +1,8 @@
 # 💫 About Me:
 My name is K. N. Rishab, and I am a passionate technology enthusiast with a keen interest in coding and software development.
-<div>
-    <img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt=""></img>
-    <img width="900" height="1" alt="">
-</div>
+
+<img src="https://github.com/rishabpuranika/rishabpuranika/blob/main/metrics.classic.svg" alt=""></img>
+<img width="900" height="1" alt="">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rishabpuranika.rishabpuranika&" />
